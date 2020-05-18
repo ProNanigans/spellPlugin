@@ -3,6 +3,8 @@ IMPORTANT: This plugin requires the additional plugin "EffectLib" to be installe
 https://dev.bukkit.org/projects/effectlib
 
 Tested version: 1.15.2
+
 To use the plugin, type /wand
+
 Note: Plugin does not fully work in creative mode
 #
