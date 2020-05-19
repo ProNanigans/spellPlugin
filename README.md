@@ -7,4 +7,6 @@ Tested version: 1.15.2
 To use the plugin, type /wand
 
 Note: Plugin does not fully work in creative mode
+
+--This plugin is mearly a recreation of the player spells available to me in the minecraft server "PotterworldMC"
 #
