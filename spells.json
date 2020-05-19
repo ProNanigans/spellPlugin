@@ -405,7 +405,7 @@
       "radius": 3,
       "duration": 40,
       "speed": 2,
-      "magic": 14,
+      "magic": 14, 
       "desc": "Conjures a large magical bubble of water",
       "category": "Utility"
     },
